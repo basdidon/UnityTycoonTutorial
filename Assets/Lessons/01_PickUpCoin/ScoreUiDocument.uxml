@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="flex-grow: 0; background-color: rgb(233, 255, 0); font-size: 68px; margin-left: auto; margin-bottom: 0; flex-direction: row; margin-top: 0; -unity-font-style: bold; min-width: 40%;">
+        <ui:Label tabindex="-1" text="Score : " display-tooltip-when-elided="true" />
+        <ui:Label tabindex="-1" text="9999" display-tooltip-when-elided="true" name="Coin" style="margin-left: auto; padding-left: 8px; padding-right: 8px;" />
+    </ui:VisualElement>
+</ui:UXML>
