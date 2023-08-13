@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3d1798a62e8a0a649b2ecf4947e17d8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <FaceDownSpite>k__BackingField: {fileID: 1229293732, guid: abaa25f0c68827e409bd2c9eb6896dc7, type: 3}
+  - cardData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
